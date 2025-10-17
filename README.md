@@ -1,50 +1,53 @@
-### Hi there 👋, I'm NYX.K.D.Security
+### Hi there, I'm NYX.K.D.Security 👋
 
-I am a **Cybersecurity Strategist** and **Bug Bounty Hunter** with a deep, holistic understanding of the full security landscape, from code to cloud. My extensive background as a full-stack developer gives me a unique perspective on security, allowing me to think like an attacker while understanding the defender's challenges.
+I am a **Cybersecurity Strategist** and **Bug Bounty Hunter** with a deep, holistic understanding of the full application security landscape. My extensive background as a full-stack and mobile developer gives me a unique perspective, allowing me to think like an attacker while understanding a defender's challenges.
 
-I operate with a **Purple Team** mindset, blending offensive techniques with defensive strategies to create truly resilient systems.
+> 🛡️ I operate with a **Purple Team** mindset, blending offensive techniques with defensive strategies to build truly resilient systems.
 
-- 🔭 **I’m currently:** Enhancing my suite of proprietary security automation tools.
-- 🌱 **I’m currently learning:** Advanced exploitation techniques and firmware reverse engineering.
-- 👯 **I’m looking to:** Collaborate on innovative open-source security projects.
-- 📫 **How to reach me:** `nyx.k.d.security@proton.me`
+- 🔭 **Currently:** Enhancing my suite of proprietary security automation tools for web and mobile.
+- 🌱 **Learning:** Advanced exploitation techniques and firmware reverse engineering.
+- 👯 **Collaborating on:** Innovative open-source security projects.
+- 📫 **Reach me:** `nyx.k.d.security@proton.me`
 
 ---
 
-### 💻 Core Skills & Technologies
+### 🚀 Core Skills & Technologies
 
 | Category | Technologies & Skills |
 | :--- | :--- |
 | **Programming Languages** | `Python` `Java` `C++` `C#` `JavaScript` `PHP` `SQL` |
+| **Mobile Development** | `Android` `Java/Kotlin for Android` |
 | **Tools & Frameworks** | `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Proprietary Tools` |
 | **Databases** | `MySQL` `PostgreSQL` `SQL Server` `MongoDB` |
-| **Infrastructure** | `Linux` `Docker` `AWS` `CI/CD` |
+| **Operating Systems** | `Linux` `Windows` `Android`|
 
 ---
 
-### 🛡️ Areas of Expertise
+### 🎯 Areas of Expertise
 
-My expertise covers a comprehensive range of security domains, including but not limited to:
+My expertise is focused on identifying and mitigating vulnerabilities across the entire development lifecycle. The capabilities of my proprietary tools and my personal skills cover the following critical domains:
 
-*   **Application Security (OWASP Top 10 & Beyond):**
-    *   **Injection Flaws:** `SQLi`, `RCE`, `LFI/RFI`, `SSTI`, `XXE`, `NoSQLi`.
-    *   **Cross-Site Scripting:** `Reflected`, `Stored`, and `DOM-based XSS`.
-    *   **Broken Access Control:** `IDOR`, `Privilege Escalation`, `Path Traversal`.
-    *   **Advanced Web Attacks:** `SSRF`, `CSRF`, `Insecure Deserialization`, `HTTP Request Smuggling`.
+<br>
 
-*   **Infrastructure & Network Security:**
-    *   **Cloud Security:** `S3 Misconfigurations`, `Exposed Access Keys`, `Loose IAM Policies`.
-    *   **Server & OS Hardening:** `Insecure File Permissions`, `Firewall Configuration`.
-    *   **Network Attacks:** `MITM`, `SSL Stripping`, `DNS Cache Poisoning`.
+#### 🛡️ Application & Mobile Security
+*   **Injection Flaws:** `SQLi`, `Command Injection (RCE)`, `NoSQLi`, `XPath Injection`.
+*   **File Inclusion:** `Local File Inclusion (LFI)`, `Remote File Inclusion (RFI)`.
+*   **Cross-Site Scripting (XSS):** `Reflected`, `Stored`, and `DOM-based`.
+*   **Advanced Web Attacks:** `SSRF`, `CSRF`, `Insecure Deserialization`, `HTTP Request Smuggling`.
+*   **Mobile App Flaws:** `Insecure Data Storage`, `Weak Cryptography`, `Insecure Communication`.
 
-*   **Design & Architecture Security:**
-    *   **Cryptographic Failures:** `Weak Hashing`, `Predictable Tokens`, `Insecure Ciphers`.
-    *   **Insecure Design:** `Missing Rate Limiting`, `User Enumeration`, `Business Logic Flaws`.
-    *   **Security Misconfiguration:** `Sensitive Data Exposure` (`.git`, `.env`), `Missing Security Headers`.
+<br>
 
-| :--- | :--- |
-| **Programming Languages** | `Python` `Java` `C++` `C#` `JavaScript` `PHP` `SQL` |
-| **Web & Application Security** | `SQL Injection` `XSS` `CSRF` `RCE` `LFI/RFI` `SSRF` `WebSockets` |
-| **Defensive & Strategic** | `Risk Management` `Security Policy` `Threat Modeling` `Incident Response` |
-| **Tools & Frameworks** | `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Proprietary Tools` |
-| **Databases** | `MySQL` `PostgreSQL` `SQL Server` `MongoDB` |
+#### 🏗️ Secure Design & Architecture
+*   **Broken Access Control:** `IDOR`, `Privilege Escalation`, `Path Traversal`.
+*   **Cryptographic Failures:** `Weak Hashing`, `Predictable Tokens`, `Insecure Ciphers`.
+*   **Insecure Design:** `Missing Rate Limiting`, `User Enumeration`, `Business Logic Flaws`.
+*   **Authentication & Session Management:** `Session Fixation`, `Weak Password Policies`.
+
+<br>
+
+#### 🌐 Strategic & Network Security
+*   **Information Security Strategy:** `Risk Management`, `Security Policy Development`, `Threat Modeling`.
+*   **Security Misconfiguration:** `Sensitive Data Exposure` (`.git`, `.env`), `Missing Security Headers`.
+*   **Network Attacks:** `MITM`, `SSL Stripping`, `DNS Cache Poisoning`, `Open Redirect`.
+
