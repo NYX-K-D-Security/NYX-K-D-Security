@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm NYX.K.D.Security
 
-<!--
-**NYX-K-D-Security/NYX-K-D-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cybersecurity Strategist** and **Bug Bounty Hunter** with a passion for both building and breaking software. My extensive background as a full-stack developer gives me a unique perspective on security, allowing me to think like an attacker while understanding the defender's challenges.
 
-Here are some ideas to get you started:
+I operate with a **Purple Team** mindset, blending offensive techniques with defensive strategies to create truly resilient systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently:** Enhancing my suite of proprietary security automation tools.
+- 🌱 **I’m currently learning:** Advanced exploitation techniques and firmware reverse engineering.
+- 👯 **I’m looking to:** Collaborate on innovative open-source security projects.
+- 📫 **How to reach me:** `nyx.k.d.security@proton.me `
+
+---
+
+### 💻 Core Skills & Expertise
+
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Programming Languages** | `Python` `Java` `C++` `C#` `JavaScript` `PHP` `SQL` |
+| **Web & Application Security** | `SQL Injection` `XSS` `CSRF` `RCE` `LFI/RFI` `SSRF` `WebSockets` |
+| **Defensive & Strategic** | `Risk Management` `Security Policy` `Threat Modeling` `Incident Response` |
+| **Tools & Frameworks** | `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Proprietary Tools` |
+| **Databases** | `MySQL` `PostgreSQL` `SQL Server` `MongoDB` |
