@@ -8,7 +8,7 @@
 - 🔭 **Currently:** Enhancing my suite of security automation tools for web and mobile.
 - 🌱 **Learning:** Advanced exploitation techniques and firmware reverse engineering.
 - 👯 **Collaborating on:** Innovative open-source security projects.
-- 📫 **Reach me:** `nyx.k.d.sec@proton.me`
+- 📫 **Reach me:** `nyx.k.d.security@proton.me`
 
 ---
 
