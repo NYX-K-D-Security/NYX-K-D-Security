@@ -12,14 +12,24 @@
 
 ---
 
-### 💼 Services I Offer
+### 💼 How I Secure Your Business: My Services
 
-As a freelance cybersecurity consultant, I provide the following critical services to help secure your digital assets:
+My approach is simple: I find your vulnerabilities, explain the real-world business risk, and provide clear, actionable guidance to fix them. By combining advanced automation with deep manual expertise, I offer:
 
-*   **Comprehensive Penetration Testing:** In-depth testing for your web applications, mobile apps (Android), and internal/external networks.
-*   **Vulnerability Assessment & Analysis:** Automated and manual scanning to identify weaknesses, followed by a detailed report with actionable mitigation steps.
-*   **Security Code Review:** Analyzing your source code (Python, Java, PHP, JS, etc.) to find vulnerabilities before they reach production.
-*   **Risk Management & Policy Consultation:** Helping you develop robust security policies and manage information security risks effectively.
+*   **1. Hybrid Penetration Testing:**
+    *   My process begins with a highly efficient, automated analysis to rapidly identify a broad spectrum of vulnerabilities across your web and mobile applications. This is followed by meticulous manual testing, where I uncover the complex logic flaws that scanners alone cannot find.
+
+*   **2. Source Code Security Review:**
+    *   Why wait for an attack? I will analyze your application's source code (`Python`, `Java`, `PHP`, etc.) to identify and eliminate vulnerabilities at their root, long before they reach production.
+
+*   **3. Actionable Risk & Vulnerability Reports:**
+    *   You won't get a confusing list of technical jargon. You will receive a detailed, prioritized report that clearly explains:
+        *   **The Vulnerability:** What is the weakness?
+        *   **The Business Impact:** How can this hurt your business?
+        *   **The Fix:** Step-by-step instructions for your developers.
+
+*   **4. Strategic Security & Risk Advisory:**
+    *   Beyond finding individual bugs, I help you build a stronger security foundation. I provide consultation on risk management, security policy development, and designing more resilient systems from the ground up.
 
 ---
 
